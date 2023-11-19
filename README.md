@@ -2,16 +2,6 @@
 
 # SimpleWeb 💤
 
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/DSDmark/SimpleWeb)
-![GitHub](https://img.shields.io/github/license/DSDmark/SimpleWeb)
-![GitHub language count](https://img.shields.io/github/languages/count/DSDmark/SimpleWeb)
-![GitHub last commit](https://img.shields.io/github/last-commit/DSDmark/SimpleWeb)
-[![Netlify Deploy](https://github.com/DSDmark/SimpleWeb/actions/workflows/main.yml/badge.svg)](https://github.com/DSDmark/SimpleWeb/actions/workflows/main.yml)
-
-## Apis integration example with Vitets, Redux toolkit, Material-ui 🚀 with GitHub-APIs.
-
-<div align="left">
-
 ## Purpose 😑
 
 > The **SimpleWeb** web app serves as an example of how to Build Vitets App with Includes [**@mui/Material**](mui.com/) and **Redux toolkit** its peer dependencies, which include emotion, the built-in style engine in **MUI v5**. Moreover, it is employed by **RESTful APIs** and It works with the `Docker` platform.
@@ -56,24 +46,4 @@ Once you are done you can close 🔒 the application in your terminal to quit th
 
 </div>
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://githubbox.com/DSDmark/SimpleWeb/tree/master)
 
-<div align="left">
-
-## Try Out SimpleCURD Demo 🚀
-
-<a href="https://simplewebs.netlify.app" alt="SimpleWeb">SimpleWeb</a>
-
-</div>
-
-### SimpleWeb
-
-![SimpleWeb perview](./public/assets/perview.gif 'SimpleWeb')
-
-> If you have any issues with that Application feel free to let me know 🙃!
-
-> If you are more interested, check out 🥺 the collection of [ **DSDmark**](https://github.com/DSDmark"DSDmark").
-
----
-
-</div>
